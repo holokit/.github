@@ -1,4 +1,4 @@
-# HoloKit 
+# From HoloKit 1 to HoloKit X
 
 HoloKit 1, a phone-based optical see-through stereoscopic mixed reality headset was released as a cardboard proof of concept in 2017 by Amber Garage.
 
