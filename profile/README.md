@@ -20,21 +20,19 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 
 * Buy HoloKit on [our website](https://holokit.io/products/holokit-x) or [Amazon](https://www.amazon.com/s?i=merchant-items&me=ASBKMHTMFQG2J).
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
-* Read [Documentations](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit.
+* Read [Documentation](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit.
 * Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
-* Access to [HoloKit Unity SDK](https://github.com/holoi/holokit-unity-sdk) to build your first HoloKit demo. 
+* Access to [HoloKit Unity SDK](https://github.com/holokit/holokit-unity-sdk) to build your first HoloKit demo. 
 
 # Getting inspired
 
 Our team is a blend of MR researchers, educators, and creators, making us the quintessential users of HoloKit. Going beyond mere hardware, we are constantly at the forefront of experimenting and pioneering new creative paradigms in MR by leveraging HoloKit. By open-sourcing the majority of our innovations, we aim to inspire more people into the expansive realms of mixed reality.
 
-
 ## Boilerplates
 
 * We created boilerplates for quickly kickstarting your MR project.
-   * [HoloKit Singleplayer Boilerplate](https://github.com/holoi/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
-   * [HoloKit Immersal Multiplayer Boilerplate](https://github.com/holoi/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and  on-based colocation technology. 
-   * [HoloKit InstaLocate Multiplayer Boilerplate](https://github.com/holoi/holokit-instalocate-multiplayer-boilerplate) for co-located multiplayer in ad-hoc scenes (pre-scanning NOT required) with Spectator View using Adlocating, an on-device QRCode co-locating technology. 
+   * [HoloKit Singleplayer Boilerplate](https://github.com/holokit/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
+   * [HoloKit Multiplayer AR Boilerplate](https://github.com/holokit/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and on-based colocation technology, for co-located multiplayer in spontaneous scenes (pre-scanning NOT required) with Spectator View using, an on-device QRCode co-locating technology. 
 
 ## Explore more creative MR projects
 
@@ -53,7 +51,6 @@ Based on our research, we open sourced:
 
 * [Multipeer Connectivity Transport for Netcode for GameObjects](https://github.com/holoi/netcode-transport-multipeerconnectivity) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A synchronized version of this plugin was also merged into [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity). See [Sample Project](https://github.com/holoi/netcode-transport-multipeerconnectivity-sample) for kickstarting. 
 
-
 ## Upgrade from HoloKit 1 to HoloKit X
 
 HoloKit 1, a phone-based optical see-through stereoscopic mixed reality headset was released as a cardboard proof of concept in 2017 by Amber Garage. In 2023, HoloKit X was released as an premium-quality upgrade from the original HoloKit 1. 
@@ -63,4 +60,9 @@ For latest SDK update, and HoloKit X, please go to the github account of Holo In
 
 👉 [https://github.com/holoi](https://github.com/holoi)
 
-All repos in this account @holokit was archived for HoloKit 1. 
+## Community 
+
+Follow [@holokit](https://x.com/holokit) on Twitter. 
+Discussion on [@holokit](https://github.com/orgs/holokit/discussions)
+Contribute to HoloKit [@holokit](https://github.com/orgs/holokit/discussions)
+
