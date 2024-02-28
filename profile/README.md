@@ -26,7 +26,7 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 
 # About Team
 
-The HoloKit was created by [Botao Amber Hu](https://botao.hu) and is currently maintained as an open-source project by [Reality Design Lab](https://reality.design).
+HoloKit was invented by [Botao Amber Hu](https://botao.hu) and is currently maintained as an open-source project by [Reality Design Lab](https://reality.design).
 
 [Reality Design Lab](https://reality.design) is an interdisciplinary research and design lab focused on the intersection of spatial computing and programmable cryptography. Led by [Botao Amber Hu](https://botao.hu), this lab prioritizes the development of embodied interactions within mixed reality and the realm of blockchain-substrated artificial life. Amber is not only a researcher and innovator in the field but also an accomplished designer and creative technologist who initiated Holo Interactive Inc., which operates the lab. His contributions have been showcased at prestigious events such as SIGGRAPH, WWW, CHI, SXSW, and TEDx, earning him recognition through numerous accolades like the CHI Best Interactivity, Red Dot Design Award, iF Design Award, Webby Awards, and Core77 Design Award. His academic background includes a Bachelor of Science in Computer Science from Tsinghua University and a Master's in Artificial Intelligence from Stanford University.
 
