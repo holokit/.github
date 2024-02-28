@@ -1,11 +1,14 @@
-# About HoloKit 
+# HoloKit 
 
-HoloKit is an open-source mixed reality toolkit that turns your iPhone into an affordable optical see-through AR wearable designed for spatial creators.
+HoloKit is an open-source Mixed Reality (MR) toolkit that turns your smartphone into an affordable optical see-through stereoscopic augmented reality wearable designed for spatial computing enthusiasts. 
+It aims to be the Mixed Reality equivalent of *Arduino*, providing a cost-effective alternative to powerful yet expensive options like Vision Pro and HoloLens. 
+This toolkit is ideal for hackers, designers, and artists interested in hands-on spatial computing projects, such as integrating the *Internet of Things* with Mixed Reality, thanks to its open-source nature. 
+It's also a boon for university students learning mixed reality development without a large budget, and researchers seeking to customize their setup and fully leverage ARKit for immersive, multiplayer experiences. 
+Additionally, museums and exhibitions can leverage HoloKit to provide mixed reality experiences to large audiences, benefiting from its affordability and adaptability.
 
-# About HoloKit X
+# HoloKit X
 
-HoloKit X is an optical see-through stereoscopic mixed reality headset [HoloKit X](https://holokit.io) launched in 2022. 
-It is an award-winning Red-Dot Design Award and If Design Award premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
+[HoloKit X](https://holokit.io) is an optical see-through mixed reality headset, which was launched in 2022. It is an award-winning device, having received the Red Dot Design Award and the iF Design Award, and represents a premium-quality upgrade from our original invention, [HoloKit 1](https://1.holokit.io/) - a cardboard proof of concept released in 2017.
 
 * 🥽 **Ingenious Invention**: We have released an optical see-through stereoscopic MR headset [HoloKit X](https://holokit.io) in 2022, which is an award-winning premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based MR headset maximizes your smartphone's existing AR functionalities, such as [ARKit](https://developer.apple.com/documentation/arkit/arkit_in_ios), [6DOF Spatial Tracking](https://developer.apple.com/documentation/arkit/arworldtrackingconfiguration), [Hand Tracking](https://developer.apple.com/documentation/vision/detecting_hand_poses_with_vision), [Depth and Mesh by LiDAR](https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera), [Spatial Audio](https://developer.apple.com/documentation/arkit/), and [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity).
