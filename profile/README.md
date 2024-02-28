@@ -23,6 +23,10 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 * Read [Documentation](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit.
 * Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
 * Access to [HoloKit Unity SDK](https://github.com/holokit/holokit-unity-sdk) to build your first HoloKit demo. 
+* We created boilerplates for quickly kickstarting your MR project.
+   * [HoloKit Singleplayer Boilerplate](https://github.com/holokit/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
+   * [HoloKit Multiplayer AR Boilerplate](https://github.com/holokit/holokit-multiplayer-ar-boilerplate) for co-located multiplayer experiences in fixed scenes, pre-scanning with Spectator View is required using the Immersal SDK and anchor-based colocation technology. for spontaneous scenes where pre-scanning is not required, Spectator View utilizes an on-device QR code technology for colocation."
+
 
 # About Team
 
@@ -33,12 +37,6 @@ HoloKit was invented by [Botao Amber Hu](https://botao.hu) and is currently main
 At the Lab, we boast a diverse team of mixed reality researchers, educators, and creators who are also the primary users of HoloKit. Our work transcends the boundaries of just hardware; we are actively engaged in exploring and forging new creative frontiers in mixed reality through the use of HoloKit. Our commitment to open-source principles for most of our groundbreaking work is driven by a desire to draw more individuals into the vast and ever-growing field of mixed reality.
 
 # Getting inspired
-
-## Boilerplates
-
-* We created boilerplates for quickly kickstarting your MR project.
-   * [HoloKit Singleplayer Boilerplate](https://github.com/holokit/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
-   * [HoloKit Multiplayer AR Boilerplate](https://github.com/holokit/holokit-immersal-multiplayer-boilerplate) for co-located multiplayer in fixed scenes (pre-scanning required) with Spectator View using Immersal SDK and on-based colocation technology, for co-located multiplayer in spontaneous scenes (pre-scanning NOT required) with Spectator View using, an on-device QRCode co-locating technology. 
 
 ## Explore more creative MR projects
 
