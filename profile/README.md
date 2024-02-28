@@ -4,8 +4,6 @@ HoloKit is an open-source mixed reality toolkit that turns your iPhone into an a
 
 # About HoloKit X
 
-HoloKit X is the advanced successor to the original HoloKit 1, offering an optical see-through stereoscopic mixed reality experience. Launched in 2022 and awarded the Red-Dot Design Award and If Design Award, HoloKit X is a premium upgrade from the 2017 cardboard-based HoloKit 1, developed by Amber Garage. For details on HoloKit 1, visit here.
-
 HoloKit X is an optical see-through stereoscopic mixed reality headset [HoloKit X](https://holokit.io) launched in 2022. 
 It is an award-winning Red-Dot Design Award and If Design Award premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
 
