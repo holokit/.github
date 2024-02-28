@@ -1,7 +1,7 @@
 # HoloKit 
 
 HoloKit is an open-source Mixed Reality (MR) toolkit that turns your smartphone into an affordable optical see-through stereoscopic augmented reality wearable designed for spatial computing enthusiasts. 
-It aims to be the Mixed Reality equivalent of *Arduino*, providing a cost-effective alternative to powerful yet expensive options like Vision Pro and HoloLens. 
+It aims to be the Mixed Reality equivalent of **Arduino**, providing a cost-effective alternative to powerful yet expensive options like Vision Pro and HoloLens. 
 This toolkit is ideal for hackers, designers, and artists interested in hands-on spatial computing projects, such as integrating the *Internet of Things* with Mixed Reality, thanks to its open-source nature. 
 It's also a boon for university students learning mixed reality development without a large budget, and researchers seeking to customize their setup and fully leverage ARKit for immersive, multiplayer experiences. 
 Additionally, museums and exhibitions can leverage HoloKit to provide mixed reality experiences to large audiences, benefiting from its affordability and adaptability.
@@ -18,7 +18,7 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 
 # Getting started 
 
-* Buy HoloKit on [our website](https://holokit.io/products/holokit-x) or [Amazon](https://www.amazon.com/s?i=merchant-items&me=ASBKMHTMFQG2J).
+* Buy HoloKit X on [our website](https://holokit.io/products/holokit-x) or [Amazon](https://www.amazon.com/s?i=merchant-items&me=ASBKMHTMFQG2J).
 * Download [HoloKit App](https://apps.apple.com/us/app/holokit/id6444073276) to try our demos. 
 * Read [Documentation](https://docs.holokit.io/for-creators/unity/overview) to understand how to build a creative MR project based on HoloKit.
 * Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
