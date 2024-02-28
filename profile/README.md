@@ -57,7 +57,7 @@ Based on our research, we open sourced:
 
 # About Community 
 
-Follow [@holokit](https://x.com/holokit) on Twitter. 
-Discussion on [@holokit](https://github.com/orgs/holokit/discussions)
-Contribute to HoloKit [@holokit](https://github.com/orgs/holokit/discussions)
+* Follow [@holokit](https://x.com/holokit) on Twitter. 
+* Discussion on [@holokit](https://github.com/orgs/holokit/discussions)
+* Contribute to HoloKit [@holokit](https://github.com/orgs/holokit/discussions)
 
