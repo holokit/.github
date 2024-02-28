@@ -24,9 +24,15 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 * Read [ARFoundation-Samples](https://github.com/Unity-Technologies/arfoundation-samples/tree/main) to skim through the AR capabilities of your phone, consider utilizing them in MR with HoloKit.
 * Access to [HoloKit Unity SDK](https://github.com/holokit/holokit-unity-sdk) to build your first HoloKit demo. 
 
-# Getting inspired
+# About Team
 
-Our team is a blend of MR researchers, educators, and creators, making us the quintessential users of HoloKit. Going beyond mere hardware, we are constantly at the forefront of experimenting and pioneering new creative paradigms in MR by leveraging HoloKit. By open-sourcing the majority of our innovations, we aim to inspire more people into the expansive realms of mixed reality.
+The HoloKit was created by [Botao Amber Hu](https://botao.hu) and is currently maintained as an open-source project by [Reality Design Lab](https://reality.design).
+
+[Reality Design Lab](https://reality.design) is an interdisciplinary research and design lab focused on the intersection of spatial computing and programmable cryptography. Led by [Botao Amber Hu](https://botao.hu), this lab prioritizes the development of embodied interactions within mixed reality and the realm of blockchain-substrated artificial life. Amber is not only a researcher and innovator in the field but also an accomplished designer and creative technologist who initiated Holo Interactive Inc., which operates the lab. His contributions have been showcased at prestigious events such as SIGGRAPH, WWW, CHI, SXSW, and TEDx, earning him recognition through numerous accolades like the CHI Best Interactivity, Red Dot Design Award, iF Design Award, Webby Awards, and Core77 Design Award. His academic background includes a Bachelor of Science in Computer Science from Tsinghua University and a Master's in Artificial Intelligence from Stanford University.
+
+At the Lab, we boast a diverse team of mixed reality researchers, educators, and creators who are also the primary users of HoloKit. Our work transcends the boundaries of just hardware; we are actively engaged in exploring and forging new creative frontiers in mixed reality through the use of HoloKit. Our commitment to open-source principles for most of our groundbreaking work is driven by a desire to draw more individuals into the vast and ever-growing field of mixed reality.
+
+# Getting inspired
 
 ## Boilerplates
 
