@@ -1,4 +1,13 @@
-# HoloKit X
+# About HoloKit 
+
+HoloKit is an open-source mixed reality toolkit that turns your iPhone into an affordable optical see-through AR wearable designed for spatial creators.
+
+# About HoloKit X
+
+HoloKit X is the advanced successor to the original HoloKit 1, offering an optical see-through stereoscopic mixed reality experience. Launched in 2022 and awarded the Red-Dot Design Award and If Design Award, HoloKit X is a premium upgrade from the 2017 cardboard-based HoloKit 1, developed by Amber Garage. For details on HoloKit 1, visit here.
+
+HoloKit X is an optical see-through stereoscopic mixed reality headset [HoloKit X](https://holokit.io) launched in 2022. 
+It is an award-winning Red-Dot Design Award and If Design Award premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
 
 * 🥽 **Ingenious Invention**: We have released an optical see-through stereoscopic MR headset [HoloKit X](https://holokit.io) in 2022, which is an award-winning premium-quality upgrade from our original periscope-shaped invention [HoloKit 1](https://1.holokit.io/), a cardboard proof of concept released in 2017.
 * 📲 **Full AR Functionalities**: Without reinventing the wheel, our open-source, phone-based MR headset maximizes your smartphone's existing AR functionalities, such as [ARKit](https://developer.apple.com/documentation/arkit/arkit_in_ios), [6DOF Spatial Tracking](https://developer.apple.com/documentation/arkit/arworldtrackingconfiguration), [Hand Tracking](https://developer.apple.com/documentation/vision/detecting_hand_poses_with_vision), [Depth and Mesh by LiDAR](https://developer.apple.com/documentation/avfoundation/additional_data_capture/capturing_depth_using_the_lidar_camera), [Spatial Audio](https://developer.apple.com/documentation/arkit/), and [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity).
