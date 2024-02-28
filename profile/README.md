@@ -55,16 +55,7 @@ Based on our research, we open sourced:
 
 * [Multipeer Connectivity Transport for Netcode for GameObjects](https://github.com/holoi/netcode-transport-multipeerconnectivity) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A synchronized version of this plugin was also merged into [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity). See [Sample Project](https://github.com/holoi/netcode-transport-multipeerconnectivity-sample) for kickstarting. 
 
-## Upgrade from HoloKit 1 to HoloKit X
-
-HoloKit 1, a phone-based optical see-through stereoscopic mixed reality headset was released as a cardboard proof of concept in 2017 by Amber Garage. In 2023, HoloKit X was released as an premium-quality upgrade from the original HoloKit 1. 
-Amber Garage is also rebranded as Holo Interactive. 
-
-For latest SDK update, and HoloKit X, please go to the github account of Holo Interactive. 
-
-👉 [https://github.com/holoi](https://github.com/holoi)
-
-## Community 
+# About Community 
 
 Follow [@holokit](https://x.com/holokit) on Twitter. 
 Discussion on [@holokit](https://github.com/orgs/holokit/discussions)
