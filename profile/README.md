@@ -6,6 +6,8 @@ This toolkit is ideal for hackers, designers, and artists interested in hands-on
 It's also a boon for university students learning mixed reality development without a large budget, and researchers seeking to customize their setup and fully leverage ARKit for immersive, multiplayer experiences. 
 Additionally, museums and exhibitions can leverage HoloKit to provide mixed reality experiences to large audiences, benefiting from its affordability and adaptability.
 
+![axon 1](https://github.com/holokit/.github/assets/2534431/cbb9e00f-53f6-408c-85e2-01864af700b6)
+
 # HoloKit X
 
 [HoloKit X](https://holokit.io) is an optical see-through mixed reality headset, which was launched in 2022. It is an award-winning device, having received the Red Dot Design Award and the iF Design Award, and represents a premium-quality upgrade from our original invention, [HoloKit 1](https://1.holokit.io/) - a cardboard proof of concept released in 2017.
