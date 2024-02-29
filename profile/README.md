@@ -1,7 +1,7 @@
 # HoloKit 
 
 [HoloKit](https://holokit.io) is an open-source Mixed Reality (MR) toolkit that turns your smartphone into an affordable optical see-through stereoscopic augmented reality wearable designed for spatial computing enthusiasts. 
-It aims to be the Mixed Reality equivalent of **Arduino**, providing a cost-effective alternative to powerful yet expensive options like Vision Pro and HoloLens. 
+It aims to be the Mixed Reality equivalent of *Arduino*, providing a cost-effective alternative to powerful yet expensive options like Vision Pro and HoloLens. 
 This toolkit is ideal for hackers, designers, and artists interested in hands-on spatial computing projects, such as integrating the *Internet of Things* with Mixed Reality, thanks to its open-source nature. 
 It's also a boon for university students learning mixed reality development without a large budget, and researchers seeking to customize their setup and fully leverage ARKit for immersive, multiplayer experiences. 
 Additionally, museums and exhibitions can leverage HoloKit to provide mixed reality experiences to large audiences, benefiting from its affordability and adaptability.
