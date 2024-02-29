@@ -25,7 +25,7 @@ Additionally, museums and exhibitions can leverage HoloKit to provide mixed real
 * Access to [HoloKit Unity SDK](https://github.com/holokit/holokit-unity-sdk) to build your first HoloKit demo. 
 * We created boilerplates for quickly kickstarting your MR project.
    * [HoloKit Singleplayer Boilerplate](https://github.com/holokit/holokit-singleplayer-boilerplate) for simple singleplayer MR experience.
-   * [HoloKit Collocated Multiplayer Boilerplate](https://github.com/holokit/holokit-multiplayer-boilerplate) for co-located multiplayer experiences in fixed scenes, pre-scanning with Spectator View is required using the Immersal SDK and anchor-based colocation technology. for spontaneous scenes where pre-scanning is not required, Spectator View utilizes an on-device QR code technology for colocation."
+   * [HoloKit Colocated Multiplayer Boilerplate](https://github.com/holokit/holokit-colocated-multiplayer-boilerplate) for co-located multiplayer experiences in fixed scenes, pre-scanning with Spectator View is required using the Immersal SDK and anchor-based colocation technology. for spontaneous scenes where pre-scanning is not required, Spectator View utilizes an on-device QR code technology for colocation."
 
 
 # About Team
