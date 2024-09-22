@@ -56,7 +56,7 @@ Co-located Multiplayer represents an unique category in mixed reality scenarios.
 
 Based on our research, we open sourced: 
 
-* [Multipeer Connectivity Transport for Netcode for GameObjects](https://github.com/holoi/netcode-transport-multipeerconnectivity) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A synchronized version of this plugin was also merged into [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity). See [Sample Project](https://github.com/holoi/netcode-transport-multipeerconnectivity-sample) for kickstarting. 
+* [Multipeer Connectivity Transport for Netcode for GameObjects](https://github.com/realitydeslab/netcode-transport-multipeerconnectivity) is a Unity Netcode Transport plugin for Apple Multipeer Connectivity, the tech behind Apple Airdrop, which is tailored for co-located multiplayer MR game to establish the low latency local networking. A synchronized version of this plugin was also merged into [Unity's Multiplayer Community Contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions/tree/main/Transports/com.community.netcode.transport.multipeer-connectivity). See [Sample Project](https://github.com/realitydeslab/netcode-transport-multipeerconnectivity-sample) for kickstarting. 
 
 # About Community 
 
